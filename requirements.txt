@@ -1,0 +1,4 @@
+aiogram==2.25.1  # или используемую версию
+Pillow==9.2.0
+reportlab==3.6.12
+python-dotenv==1.0.0
